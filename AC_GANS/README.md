@@ -229,7 +229,7 @@ optional arguments:
                         add generated images on it
 Examples of Test Script generated images
 
-![generated image](https://github.com/DiaaZiada/Generative -Adversarial -Networks/blob/master/AC_GANS/images/1.png)
+![generated image](https://github.com/DiaaZiada/Generative-Adversarial -Networks/blob/master/AC_GANS/images/1.png)
 generated image
 
 blob/master/AC_GANS/images/2.png)
