@@ -1,4 +1,4 @@
-![GANs](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/images/gans.jpg)
+![GANs](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/image/gans.jpg)
 
 # Generative Adversarial Network
 Collection of implementations of Generative Adversarial Networks (GANs) suggested in research papers using Pytorch framework
