@@ -1,3 +1,4 @@
+
 Welcome fileWelcome file
 ![GANs# Auxiliary Classifier with Generative Adversarial Network
 this subrepo is an implementation for Auxiliary Classifier with Generative Adversarial Network
@@ -114,9 +115,7 @@ optional arguments:
 **Examples of Test Script generated images**
 
 ![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/1.png)
-![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/tree/master/AC_GANS)
-
-blob/master/AC_GANS/images/2.png)
+![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/2.png)
 ![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/3.png)
 
 ## Credits
