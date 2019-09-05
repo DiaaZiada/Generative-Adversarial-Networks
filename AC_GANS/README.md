@@ -5,7 +5,7 @@ this subrepo is an implementation for Auxiliary Classifier with Generative Adver
 
 **AC-GAN Architecture**
 
-![AC-GAN Architecture](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/acgans.jpg)
+![AC-GAN Architecture](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/acgan.png)
 
 # Generative Adversarial Network
 
