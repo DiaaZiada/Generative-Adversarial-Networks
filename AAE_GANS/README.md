@@ -9,9 +9,12 @@ this subrepo is an implementation for Adversarial Autoencoders
 
 **Model Improvment Process**
 
-![AAE_GAN_images](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/AAE_GAN%20(1).gif)
+![AAE_GAN_images](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/AAE_GAN.gif)
 
-![AAE_GAN_graph](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/AC_GAN.gif)
+![AAE_GAN_graph](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/AAE_GAN_graph.gif)
+
+![zero](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/0%20%281%29.png)
+![final](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/138%20%281%29.png)
 
 ****Requirements****
  - [Python](https://www.python.org/) 3.*
