@@ -20,8 +20,8 @@ from helpers import imshow
 def manage():
     
     parser = argparse.ArgumentParser(description='AC-GAN is an is an \
-                                     implementation of is an implementation \
-                                     for Auxiliary Classifier with Generative \
+                                     implementation of Auxiliary\
+                                     Classifier with Generative \
                                      Adversarial Network')
     parser.add_argument('--cuda', type=bool, default=True, help='set this\
                         parameter to True value if you want to use cuda gpu,\
