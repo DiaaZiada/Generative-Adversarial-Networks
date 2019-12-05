@@ -36,7 +36,7 @@ to
  
 **SubRepo Contains:**
 
- - [Notebook]https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/aae.ipynb): contains steps of train and test processes using [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
+ - [Notebook](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/aae.ipynb):  contains steps of train and test processes using [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
  - Run script: to test the model by generating some images
 
 
