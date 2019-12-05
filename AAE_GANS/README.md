@@ -63,6 +63,7 @@ optional arguments:
                         x, y values from the disruption to decodding
 ```
 **Examples of Test Script generated images**
+
 original![original](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/orginal.png)
 
 after encoding and decoding
