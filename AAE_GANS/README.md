@@ -13,8 +13,21 @@ this subrepo is an implementation for Adversarial Autoencoders
 
 ![AAE_GAN_graph](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/AAE_GAN_graph.gif)
 
+from
+
 ![zero](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/0%20%281%29.png)
+
+to
+
 ![final](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/138%20%281%29.png)
+
+and from
+
+![zero](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/0.png)
+
+to
+
+![final](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/138.png)
 
 ****Requirements****
  - [Python](https://www.python.org/) 3.*
@@ -23,7 +36,7 @@ this subrepo is an implementation for Adversarial Autoencoders
  
 **SubRepo Contains:**
 
- - [Notebook](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/AC_GAN.ipynb): contains steps of train and test processes using [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
+ - [Notebook]https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/aae.ipynb): contains steps of train and test processes using [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
  - Run script: to test the model by generating some images
 
 
@@ -50,10 +63,13 @@ optional arguments:
                         x, y values from the disruption to decodding
 ```
 **Examples of Test Script generated images**
+original![original](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/orginal.png)
 
-![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/1.png)
-![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/2.png)
-![generated image](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AC_GANS/images/3.png)
+after encoding and decoding
+![aeimage](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/encodeddecoded.png)
+
+generated using distribution values (0, -10)
+![enter image description here](https://github.com/DiaaZiada/Generative-Adversarial-Networks/blob/master/AAE_GANS/images/dist.png)
 
 ## Credits
-[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) paper
+[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) paper
